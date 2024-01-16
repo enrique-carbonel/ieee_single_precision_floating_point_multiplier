@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Expected Value : 13.440000 Result : 13.439998
+Expected Value : 3.200000 Result : 3.200000
+Expected Value : -3.200000 Result : -3.200000
+Expected Value : -2.650800 Result : -2.657439
+$finish called at time : 75 ns : File "C:/Users/enriq/OneDrive - Kenpei/University 5th Year/Semester 1/Introduction to VLSI Design/Labs/Lab 9/VLSI_lab_9/VLSI_lab_9/VLSI_lab_9.srcs/sim_1/new/IEEE_Single_Precision_Floating_Point_Multiplier_Testbench.v" Line 46

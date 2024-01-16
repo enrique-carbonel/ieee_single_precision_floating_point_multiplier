@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../VLSI_lab_9.srcs/sources_1/new/IEEE_Single_Precision_Floating_Point_Multiplier.v" \
+"../../../../VLSI_lab_9.srcs/sim_1/new/IEEE_Single_Precision_Floating_Point_Multiplier_Testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
